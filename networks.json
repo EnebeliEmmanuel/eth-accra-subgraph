@@ -1,0 +1,8 @@
+{
+  "optimism-sepolia": {
+    "CharadeGameFactory": {
+      "address": "0x5CEA9605B995BD9E87f330BEB472B554711Ea137",
+      "startBlock": 16623772
+    }
+  }
+}
