@@ -3,6 +3,15 @@
     "CharadeGameFactory": {
       "address": "0x5CEA9605B995BD9E87f330BEB472B554711Ea137",
       "startBlock": 16623772
+    },
+    "GovernorTimelock": {
+      "address": "0xfA765FDbe4f6F960A017dB1fC61DF5c3D1De4f50"
+    },
+    "BaseToken": {
+      "address": "0x6510a0cd8d89428f62753ABB2d19d00678c70FA4"
+    },
+    "BaseGovernor": {
+      "address": "0xe3c82ACaA90Cb34a80eeCb2cE8bA6f615724B837"
     }
   }
 }
